@@ -1,7 +1,9 @@
-body {
-background-color: #2e2e35;
-opacity: 0.8;
-}
+body{
+    background-color: #3f3f3f;
+    color: white;
+    font-size: 30px;  
+  }
+  
 
 title{
     color:ghostwhite;
@@ -19,12 +21,13 @@ p{
     color:floralwhite;
 }
 
-.container{
-    background-color: #94949454;
-    width: 300px;
-    min-height: 300px;
-    padding: 5px;
-    display: flex;
+
+  .container{
+    background-color: #5c5c5c75;
+    width: auto;
+    min-height: auto;
+    padding: 20px;
+    display: auto;
     justify-content: center;
     align-items: center;
     
@@ -34,3 +37,4 @@ p{
     left: 50%;
     transform: translate(-50%, -50%);
   }
+  
