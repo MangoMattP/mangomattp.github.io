@@ -1,28 +1,26 @@
-body{
+body {
     background-color: #3f3f3f;
     color: white;
-    font-size: 30px;  
+    font-size: 30px;
   }
   
-
-title{
-    color:ghostwhite;
-}
-
-h1{
-    color:floralwhite;
-}
-
-h2{
-    color:floralwhite;
-}
-
-p{
-    color:floralwhite;
-}
-
-
-  .container{
+  title {
+    color: ghostwhite;
+  }
+  
+  h1 {
+    color: floralwhite;
+  }
+  
+  h2 {
+    color: floralwhite;
+  }
+  
+  p {
+    color: floralwhite;
+  }
+  
+  .container {
     background-color: #5c5c5c75;
     width: auto;
     min-height: auto;
@@ -30,7 +28,7 @@ p{
     display: auto;
     justify-content: center;
     align-items: center;
-    
+  
     /* position the div in center */
     position: absolute;
     top: 50%;
